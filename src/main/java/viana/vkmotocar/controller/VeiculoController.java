@@ -11,7 +11,7 @@ import viana.vkmotocar.service.VeiculoService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/veiculos") // Endereço base da sua API
+@RequestMapping("/veiculos")
 public class VeiculoController {
 
     @Autowired

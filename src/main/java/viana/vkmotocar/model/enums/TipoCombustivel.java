@@ -1,4 +1,4 @@
-package viana.vkmotocar.model;
+package viana.vkmotocar.model.enums;
 
 public enum TipoCombustivel {
     GASOLINA,

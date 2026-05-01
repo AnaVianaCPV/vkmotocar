@@ -6,6 +6,8 @@ import jakarta.validation.constraints.NotNull;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import viana.vkmotocar.model.enums.TipoCombustivel;
+import viana.vkmotocar.model.enums.TipoVeiculo;
 
 @Entity
 @Table(name = "veiculos")
